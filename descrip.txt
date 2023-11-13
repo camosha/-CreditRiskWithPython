@@ -1,0 +1,7 @@
+Project Overview:
+
+Using this data set: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+
+This data set contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+
+Three step process... 1.) Managing data 2.) Feature Engineering/Selection 3.) Model Development and Evaluation
